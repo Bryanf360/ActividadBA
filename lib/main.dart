@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       return MaterialApp(
         home: Scaffold(
         appBar: AppBar(
-          title: Text('Listado API Bryan Aguirre'),
+          title: Text('Listado API Bryan Aguirre p2'),
         ),
        // ),
         body: FutureBuilder<dynamic>(
